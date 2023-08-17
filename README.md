@@ -1,4 +1,4 @@
-# Omnify-Data-Analysis-Task
+# Marketing-Campaign-Analysis- Omnify-Data-Analysis-Task
 
 ## Quick note on the dataset: 
 - 'cost' is our total ad spends for that particular date.
